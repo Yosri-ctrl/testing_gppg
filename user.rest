@@ -1,0 +1,16 @@
+###SignUP
+POST http://localhost:8000/signup
+
+{
+  "username": "asd",
+  "password": "123456"
+}
+
+
+###SingIn
+POST http://localhost:8000/signin
+
+{
+  "username": "asd",
+  "password": "123456"
+}
